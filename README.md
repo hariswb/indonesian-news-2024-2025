@@ -31,3 +31,5 @@ Uses Scikit-Learn's TF-IDF with stop words
 ## Dataset
 
 [Indonesia News January 2024 - October 2025 by Sh1zuka](https://www.kaggle.com/datasets/sh1zuka/indonesia-news-dataset-2024)
+
+Note: This data is not included in this repo.
