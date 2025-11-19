@@ -6,70 +6,70 @@
   "shards": [
     {
       "shard": "vectors_000.f32",
-      "url": "/static/vectors_000.f32",
+      "url": "/vectors_000.f32",
       "start_index": 0,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_001.f32",
-      "url": "/static/vectors_001.f32",
+      "url": "/vectors_001.f32",
       "start_index": 8388,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_002.f32",
-      "url": "/static/vectors_002.f32",
+      "url": "/vectors_002.f32",
       "start_index": 16776,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_003.f32",
-      "url": "/static/vectors_003.f32",
+      "url": "/vectors_003.f32",
       "start_index": 25164,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_004.f32",
-      "url": "/static/vectors_004.f32",
+      "url": "/vectors_004.f32",
       "start_index": 33552,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_005.f32",
-      "url": "/static/vectors_005.f32",
+      "url": "/vectors_005.f32",
       "start_index": 41940,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_006.f32",
-      "url": "/static/vectors_006.f32",
+      "url": "/vectors_006.f32",
       "start_index": 50328,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_007.f32",
-      "url": "/static/vectors_007.f32",
+      "url": "/vectors_007.f32",
       "start_index": 58716,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_008.f32",
-      "url": "/static/vectors_008.f32",
+      "url": "/vectors_008.f32",
       "start_index": 67104,
       "count": 8388,
       "size_bytes": 33552016
     },
     {
       "shard": "vectors_009.f32",
-      "url": "/static/vectors_009.f32",
+      "url": "/vectors_009.f32",
       "start_index": 75492,
       "count": 4980,
       "size_bytes": 19920016
